@@ -1,0 +1,18 @@
+{
+    "charges": [
+        {
+            "id": 1,
+            "code": "FF7LDVNM",
+            "name": "Bananaphone",
+            "pricing": [],
+            "timeline": []
+        },
+        {
+            "id": 2,
+            "code": "RQ7CDAOP",
+            "name": "Bean Chair",
+            "pricing": [],
+            "timeline": []
+        }
+    ]
+}
